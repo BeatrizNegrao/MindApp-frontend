@@ -2,10 +2,6 @@
 
 ## Requisitos de Instalação
 
-Certifique-se de ter o Node.js e npm instalados em seu sistema.
-
-## Configuração
-
 Antes de executar a aplicação, é necessário configurar a URL da API:
 
 1. Localize o arquivo `AppMind-front/src/services/UserService.tsx`
